@@ -2,19 +2,17 @@
 title: Java 基础
 date: 2022-01-19 18:14:10
 categories:
+- Java
 - Java基础
 tags:
 - Java基础
 
 ---
 
-```
-- [转载来自](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
-```
+- 转载自：[https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md](https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20%E5%9F%BA%E7%A1%80.md)
 
 # Java 基础
 
-<!-- GFM-TOC -->
 * [Java 基础](#java-基础)
     * [一、数据类型](#一数据类型)
         * [基本类型](#基本类型)
