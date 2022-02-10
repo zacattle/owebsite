@@ -6,6 +6,7 @@ categories:
 - Java基础
 tags:
 - Java基础
+- Java容器
 
 ---
 - 转载自：https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20%E5%AE%B9%E5%99%A8.md)
@@ -29,7 +30,7 @@ tags:
         * [LinkedHashMap](#linkedhashmap)
         * [WeakHashMap](#weakhashmap)
     * [参考资料](#参考资料)
-<!-- GFM-TOC -->
+    <!-- GFM-TOC -->
 
 
 ## 一、概览
@@ -107,7 +108,7 @@ public static <T> List<T> asList(T... a)
 
 ```java
 Integer[] arr = {1, 2, 3};
-List list = Arrays.asList(arr);
+List list = Arrays.asList(arr);// 数组转集合方法
 ```
 
 也可以使用以下方式调用 asList()：
