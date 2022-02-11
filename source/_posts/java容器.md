@@ -1,6 +1,7 @@
 ---
 title: java容器
 date: 2022-02-10 15:04:56
+copyright: false
 categories:
 - Java
 - Java基础
@@ -12,26 +13,6 @@ tags:
 - 转载自：https://github.com/CyC2018/CS-Notes/blob/master/notes/Java%20%E5%AE%B9%E5%99%A8.md)
 
 # Java 容器
-<!-- GFM-TOC -->
-* [Java 容器](#java-容器)
-    * [一、概览](#一概览)
-        * [Collection](#collection)
-        * [Map](#map)
-    * [二、容器中的设计模式](#二容器中的设计模式)
-        * [迭代器模式](#迭代器模式)
-        * [适配器模式](#适配器模式)
-    * [三、源码分析](#三源码分析)
-        * [ArrayList](#arraylist)
-        * [Vector](#vector)
-        * [CopyOnWriteArrayList](#copyonwritearraylist)
-        * [LinkedList](#linkedlist)
-        * [HashMap](#hashmap)
-        * [ConcurrentHashMap](#concurrenthashmap)
-        * [LinkedHashMap](#linkedhashmap)
-        * [WeakHashMap](#weakhashmap)
-    * [参考资料](#参考资料)
-    <!-- GFM-TOC -->
-
 
 ## 一、概览
 
